@@ -4,6 +4,77 @@ https://keybase.io/khayri_woulfe
 
 I hereby claim:
 
+  * I am an admin of http://www.khayriwoulfe.github.io
+  * I am khayri_woulfe (https://keybase.io/khayri_woulfe) on keybase.
+  * I have a public key with fingerprint 4DD7 4A07 4294 ADA7 6A91  DF47 3A36 AC1C 1982 B850
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010127cca3be1a9858a3c24f4f96215d98a3917ff75830be9d1d77a39f8deeeda2340a",
+      "fingerprint": "4dd74a074294ada76a91df473a36ac1c1982b850",
+      "host": "keybase.io",
+      "key_id": "3a36ac1c1982b850",
+      "kid": "010127cca3be1a9858a3c24f4f96215d98a3917ff75830be9d1d77a39f8deeeda2340a",
+      "uid": "9c3d4abba21a5eac66164477c0766819",
+      "username": "khayri_woulfe"
+    },
+    "service": {
+      "hostname": "www.khayriwoulfe.github.io",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1602136310,
+  "expire_in": 157680000,
+  "prev": "5a90861462522b77d06e1b1f1d9b95d059fe676df6e0523eab5349df60e9140a",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIsAnicrVJbSBVBGD7HykyspJcQsmghKDKb2cvMzpEkwi5IFw2D6LbO7syes2Rn
+T3v2aFL5UIRKRFRGT0ESdHvQyMjKQo2IJB8Kk0SI1C6mhSFEURY1q/XWY/My/P98
+3/d//8c8nD0tlBluGDmW+zp+Ug4/6byaChk1V74clEyXVUuRg9JePnnxCsaTvrHX
+YVJEAhBAGVsWVUwOKdE1nSqWrNqqTZAMNUZETSC2bazpCjA5YZBhLHq2zjjnjMqK
+CqiUJ9lOPMq9hOfEfSGrMoZVCrAqE5UyihElkNkqVqiCqAUtSHTZ1DUgiDE3GTCE
+OZMmeb7jip4ojEl7/8D/Z9+pSTliKUylpkllSDVOLYQgUlWMLYAR0iEJgEnuxek+
+HniN0WrPMarcVIXNpcN5kniqdCwepBus8wdWVVWVPwWdQuZHHT+WMqdWTHiu71pu
+hcDFfD8RCWT86sQkj5vGH0XDdOJMJCsIldxLOm5cikCBtHwnGAERkKGCFAjyJH4g
+4XjccAKEhpEOxAnG8EohqVECdARVJGuybGLMAOLQhDZkxCQaAxqxOcKI2YgDTVY4
+NTVFJaIEnMCpoJJ8f9yVIpqwSaNCMulE49RPeSKABx27pofCmaH0GWnBjwtlzsr+
++w9JcUaorjEC+rwY7dpgt/fM8T8X3RswKkpTzV1uzeqzYzfbx5cu6H4za2lZY/TI
+yHh5f1/RhrkH9vf672YPtzV1f8jeUV9UuPjVvL6Chk7wYeV6/caO4+tO5+zetPl9
+q7dWanOWHOq5eLSxqWN1+YzSC4P7LuaM6Cy0tbButPnUx7Tz6MfLO73TW9Pn3932
+LlRrnlu1yjbcYudS7peZtzcm5xWUZWa9KCneRq6vmBhoCX97u/vyrTWLf5SoZSWL
+6kn/+Fj61+W99yY2LR9emF/ntuwZG2pBz8Odo/1dQ9+jF0aftf58urM293GDVX+t
+NOP98J6M7WcSn36dwPeztgwuu/wGD9T0PvoN4BxM4A==
+=JEx6
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/khayri_woulfe
+
+==================================================================
+
+
+
+==================================================================
+https://keybase.io/khayri_woulfe
+--------------------------------------------------------------------
+
+I hereby claim:
+
   * I am an admin of https://khayriwoulfe.github.io
   * I am khayri_woulfe (https://keybase.io/khayri_woulfe) on keybase.
   * I have a public key with fingerprint 4DD7 4A07 4294 ADA7 6A91  DF47 3A36 AC1C 1982 B850
